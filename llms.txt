@@ -1,78 +1,79 @@
-# Delaware Bankruptcy -- Chapter 7 & 13 Filing Guide [2026]
+# Delaware Bankruptcy - Chapter 7 & 13 Filing Guide [2026]
 > Free Delaware bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, Delaware exemptions, filing costs, means test, and what to expect in your case.
 
 ## About
 delawarebankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Delaware Bankruptcy -- Chapter 7 & 13 Filing Guide: https://delawarebankruptcy.org/
-- Chapter 7 Bankruptcy in Delaware -- Eligibility, Exemptions, Timeline: https://delawarebankruptcy.org/chapter-7.html
-- Chapter 13 Bankruptcy in Delaware -- Payment Plans, Timeline: https://delawarebankruptcy.org/chapter-13.html
-- Delaware Bankruptcy Exemptions -- What You Can Keep: https://delawarebankruptcy.org/exemptions.html
-- How Much Does Bankruptcy Cost in Delaware? -- Filing Fees, Attorney Fees: https://delawarebankruptcy.org/cost.html
-- Delaware Bankruptcy FAQ -- 15 Common Questions Answered: https://delawarebankruptcy.org/faq.html
-- Delaware Bankruptcy Statistics -- Filing Data and Trends: https://delawarebankruptcy.org/statistics.html
-- Delaware Bankruptcy Resources -- Courts, Legal Aid, Credit Counseling: https://delawarebankruptcy.org/resources.html
-- Filing Bankruptcy in Wilmington, Delaware -- Your Complete Guide: https://delawarebankruptcy.org/wilmington/
-- Chapter 7 Bankruptcy in Wilmington, Delaware -- Eliminate Debt: https://delawarebankruptcy.org/wilmington/chapter-7.html
-- Chapter 13 Bankruptcy in Wilmington, Delaware -- Repayment Plans: https://delawarebankruptcy.org/wilmington/chapter-13.html
-- Delaware Bankruptcy Exemptions -- What You Can Keep in Wilmington: https://delawarebankruptcy.org/wilmington/exemptions.html
-- How Much Does Bankruptcy Cost in Wilmington, Delaware?: https://delawarebankruptcy.org/wilmington/cost.html
-- Bankruptcy FAQ -- Common Questions for Wilmington, Delaware: https://delawarebankruptcy.org/wilmington/faq.html
-- Wilmington Means Test: Do You Qualify for Chapter 7? -- Delaware: https://delawarebankruptcy.org/wilmington/means-test.html
-- 341 Meeting of Creditors in Wilmington, Delaware -- What to Expect: https://delawarebankruptcy.org/wilmington/341-meeting.html
-- Bankruptcy Guide for Newark, Delaware: https://delawarebankruptcy.org/wilmington/suburbs/newark-de.html
-- Bankruptcy Guide for Dover, Delaware: https://delawarebankruptcy.org/wilmington/suburbs/dover.html
-- Bankruptcy Guide for Middletown, Delaware: https://delawarebankruptcy.org/wilmington/suburbs/middletown.html
-- Bankruptcy Guide for Bear, Delaware: https://delawarebankruptcy.org/wilmington/suburbs/bear.html
 - The 341 Meeting of Creditors in Delaware: https://delawarebankruptcy.org/341-meeting.html
 - The Automatic Stay in Delaware Bankruptcy: https://delawarebankruptcy.org/automatic-stay.html
+- Bank Accounts and Bankruptcy in Delaware: https://delawarebankruptcy.org/bank-account.html
+- Can I Buy a Car While in Chapter 13 in Delaware?: https://delawarebankruptcy.org/buy-car-chapter-13.html
+- Buying a House After Bankruptcy in Delaware: https://delawarebankruptcy.org/buying-a-house.html
+- Car Leases and Bankruptcy in Delaware: https://delawarebankruptcy.org/car-lease.html
+- Chapter 13 Bankruptcy Eligibility in Delaware: https://delawarebankruptcy.org/chapter-13-eligibility.html
+- Chapter 13 Payments in Delaware: https://delawarebankruptcy.org/chapter-13-payments.html
+- Chapter 13 Bankruptcy in Delaware - Payment Plans, Timeline: https://delawarebankruptcy.org/chapter-13.html
+- Chapter 7 Bankruptcy Eligibility in Delaware: https://delawarebankruptcy.org/chapter-7-eligibility.html
+- Chapter 7 Bankruptcy in Delaware - Eligibility, Exemptions, Timeline: https://delawarebankruptcy.org/chapter-7.html
 - Bankruptcy Filing Checklist for Delaware: https://delawarebankruptcy.org/checklist.html
+- Converting Bankruptcy Chapters in Delaware: https://delawarebankruptcy.org/converting-chapters.html
+- How Much Does Bankruptcy Cost in Delaware? - Filing Fees, Attorney Fees: https://delawarebankruptcy.org/cost.html
 - Rebuilding Credit After Bankruptcy in Delaware: https://delawarebankruptcy.org/credit-after-bankruptcy.html
+- Credit Card Debt and Bankruptcy in Delaware: https://delawarebankruptcy.org/credit-card-debt.html
+- Using Credit Cards Before Bankruptcy in Delaware: https://delawarebankruptcy.org/credit-cards-before-filing.html
 - Types of Debt in Delaware Bankruptcy: https://delawarebankruptcy.org/debt-types.html
+- Bankruptcy Disqualifications in Delaware: https://delawarebankruptcy.org/disqualifications.html
+- Divorce and Bankruptcy in Delaware: https://delawarebankruptcy.org/divorce-and-bankruptcy.html
+- Emergency Bankruptcy Filing in Delaware: https://delawarebankruptcy.org/emergency-bankruptcy.html
+- Bankruptcy and Employment in Delaware - Discrimination, Hiring, Your Rights: https://delawarebankruptcy.org/employment.html
+- Can I Keep My Jewelry in Delaware Bankruptcy?: https://delawarebankruptcy.org/engagement-ring.html
+- Can Bankruptcy Stop an Eviction in Delaware?: https://delawarebankruptcy.org/eviction.html
+- Delaware Bankruptcy Exemptions - What You Can Keep: https://delawarebankruptcy.org/exemptions.html
+- Delaware Bankruptcy FAQ - 15 Common Questions Answered: https://delawarebankruptcy.org/faq.html
+- How to Find Bankruptcy Filings in Delaware: https://delawarebankruptcy.org/find-bankruptcy-filing.html
 - Foreclosure and Bankruptcy in Delaware: https://delawarebankruptcy.org/foreclosure.html
+- Delaware Bankruptcy Glossary: https://delawarebankruptcy.org/glossary.html
+- Bankruptcy Income Limits in Delaware: https://delawarebankruptcy.org/income-limits.html
+- Delaware Bankruptcy - Chapter 7 & 13 Filing Guide: https://delawarebankruptcy.org/
+- Judgments and Bankruptcy in Delaware: https://delawarebankruptcy.org/judgments.html
 - Keep Your Car in Bankruptcy in Delaware: https://delawarebankruptcy.org/keep-your-car.html
 - Keep Your House in Bankruptcy in Delaware: https://delawarebankruptcy.org/keep-your-house.html
+- Filing Bankruptcy for Medical Debt in Delaware - Discharge, Alternatives, Protections: https://delawarebankruptcy.org/medical-debt-only.html
 - Medical Debt and Bankruptcy in Delaware: https://delawarebankruptcy.org/medical-debt.html
-- Vehicle Repossession and Bankruptcy in Delaware: https://delawarebankruptcy.org/repossession.html
-- Small Business Bankruptcy in Delaware: https://delawarebankruptcy.org/small-business.html
-- Student Loans and Bankruptcy in Delaware: https://delawarebankruptcy.org/student-loans.html
-- Tax Debt and Bankruptcy in Delaware: https://delawarebankruptcy.org/tax-debt.html
-- Bankruptcy Timeline in Delaware: https://delawarebankruptcy.org/timeline.html
-- Stop Wage Garnishment in Delaware with Bankruptcy: https://delawarebankruptcy.org/wage-garnishment.html
-- Emergency Bankruptcy Filing in Delaware: https://delawarebankruptcy.org/emergency-bankruptcy.html
-- Divorce and Bankruptcy in Delaware: https://delawarebankruptcy.org/divorce-and-bankruptcy.html
-- Credit Card Debt and Bankruptcy in Delaware: https://delawarebankruptcy.org/credit-card-debt.html
-- Converting Bankruptcy Chapters in Delaware: https://delawarebankruptcy.org/converting-chapters.html
-- Chapter 7 Bankruptcy Eligibility in Delaware: https://delawarebankruptcy.org/chapter-7-eligibility.html
-- Chapter 13 Bankruptcy Eligibility in Delaware: https://delawarebankruptcy.org/chapter-13-eligibility.html
-- Buying a House After Bankruptcy in Delaware: https://delawarebankruptcy.org/buying-a-house.html
-- Delaware Bankruptcy Glossary: https://delawarebankruptcy.org/glossary.html
 - Payday Loans and Bankruptcy in Delaware: https://delawarebankruptcy.org/payday-loans.html
-- Judgments and Bankruptcy in Delaware: https://delawarebankruptcy.org/judgments.html
+- Undoing a Reaffirmation Agreement in Delaware - 60-Day Rescission, Options: https://delawarebankruptcy.org/reaffirmation-regret.html
+- Renting After Bankruptcy in Delaware - Landlord Screening, Tips, Tenant Rights: https://delawarebankruptcy.org/renting-after-bankruptcy.html
+- Repossession and Credit Reports After Bankruptcy in Delaware: https://delawarebankruptcy.org/repo-credit-report.html
+- Vehicle Repossession and Bankruptcy in Delaware: https://delawarebankruptcy.org/repossession.html
+- Delaware Bankruptcy Resources - Courts, Legal Aid, Credit Counseling: https://delawarebankruptcy.org/resources.html
+- Can I Keep My 401k and Retirement in Delaware Bankruptcy?: https://delawarebankruptcy.org/retirement-accounts.html
 - Second Mortgages and Bankruptcy in Delaware: https://delawarebankruptcy.org/second-mortgage.html
-- Bank Accounts and Bankruptcy in Delaware: https://delawarebankruptcy.org/bank-account.html
-- Chapter 13 Payments in Delaware: https://delawarebankruptcy.org/chapter-13-payments.html
-- Bankruptcy Income Limits in Delaware: https://delawarebankruptcy.org/income-limits.html
-- Bankruptcy Disqualifications in Delaware: https://delawarebankruptcy.org/disqualifications.html
-- Can I Buy a Car While in Chapter 13 in Delaware?: https://delawarebankruptcy.org/buy-car-chapter-13.html
-- Can Bankruptcy Stop an Eviction in Delaware?: https://delawarebankruptcy.org/eviction.html
-- Car Leases and Bankruptcy in Delaware: https://delawarebankruptcy.org/car-lease.html
+- Bankruptcy and Security Clearance in Delaware - Will I Lose My Clearance?: https://delawarebankruptcy.org/security-clearance.html
+- Small Business Bankruptcy in Delaware: https://delawarebankruptcy.org/small-business.html
+- Delaware Bankruptcy Statistics - Filing Data and Trends: https://delawarebankruptcy.org/statistics.html
+- What Bills to Stop Paying Before Bankruptcy in Delaware: https://delawarebankruptcy.org/stop-paying-bills.html
+- Student Loans and Bankruptcy in Delaware: https://delawarebankruptcy.org/student-loans.html
+- Surrendering Your Car in Delaware Bankruptcy - Process, Deficiency, Options: https://delawarebankruptcy.org/surrender-car.html
+- Tax Debt and Bankruptcy in Delaware: https://delawarebankruptcy.org/tax-debt.html
+- Tax Refunds and Chapter 13 in Delaware - Trustee Practices, Protecting Your Refund: https://delawarebankruptcy.org/tax-refund-chapter13.html
+- Bankruptcy Timeline in Delaware: https://delawarebankruptcy.org/timeline.html
 - Timeshares and Bankruptcy in Delaware: https://delawarebankruptcy.org/timeshare.html
 - Can I Travel During Chapter 13 in Delaware?: https://delawarebankruptcy.org/travel-chapter-13.html
-- What Bills to Stop Paying Before Bankruptcy in Delaware: https://delawarebankruptcy.org/stop-paying-bills.html
-- Using Credit Cards Before Bankruptcy in Delaware: https://delawarebankruptcy.org/credit-cards-before-filing.html
-- How to Find Bankruptcy Filings in Delaware: https://delawarebankruptcy.org/find-bankruptcy-filing.html
-- Repossession and Credit Reports After Bankruptcy in Delaware: https://delawarebankruptcy.org/repo-credit-report.html
-- Can I Keep My Jewelry in Delaware Bankruptcy?: https://delawarebankruptcy.org/engagement-ring.html
-- Can I Keep My 401k and Retirement in Delaware Bankruptcy?: https://delawarebankruptcy.org/retirement-accounts.html
-- Renting After Bankruptcy in Delaware -- Landlord Screening, Tips, Tenant Rights: https://delawarebankruptcy.org/renting-after-bankruptcy.html
-- Bankruptcy and Security Clearance in Delaware -- Will I Lose My Clearance?: https://delawarebankruptcy.org/security-clearance.html
-- Undoing a Reaffirmation Agreement in Delaware -- 60-Day Rescission, Options: https://delawarebankruptcy.org/reaffirmation-regret.html
-- Tax Refunds and Chapter 13 in Delaware -- Trustee Practices, Protecting Your Refund: https://delawarebankruptcy.org/tax-refund-chapter13.html
-- Surrendering Your Car in Delaware Bankruptcy -- Process, Deficiency, Options: https://delawarebankruptcy.org/surrender-car.html
-- Filing Bankruptcy for Medical Debt in Delaware -- Discharge, Alternatives, Protections: https://delawarebankruptcy.org/medical-debt-only.html
-- Bankruptcy and Employment in Delaware -- Discrimination, Hiring, Your Rights: https://delawarebankruptcy.org/employment.html
+- Stop Wage Garnishment in Delaware with Bankruptcy: https://delawarebankruptcy.org/wage-garnishment.html
+- 341 Meeting of Creditors in Wilmington, Delaware - What to Expect: https://delawarebankruptcy.org/wilmington/341-meeting.html
+- Chapter 13 Bankruptcy in Wilmington, Delaware - Repayment Plans: https://delawarebankruptcy.org/wilmington/chapter-13.html
+- Chapter 7 Bankruptcy in Wilmington, Delaware - Eliminate Debt: https://delawarebankruptcy.org/wilmington/chapter-7.html
+- How Much Does Bankruptcy Cost in Wilmington, Delaware?: https://delawarebankruptcy.org/wilmington/cost.html
+- Delaware Bankruptcy Exemptions - What You Can Keep in Wilmington: https://delawarebankruptcy.org/wilmington/exemptions.html
+- Bankruptcy FAQ - Common Questions for Wilmington, Delaware: https://delawarebankruptcy.org/wilmington/faq.html
+- Filing Bankruptcy in Wilmington, Delaware - Your Complete Guide: https://delawarebankruptcy.org/wilmington/
+- Wilmington Means Test: Do You Qualify for Chapter 7? - Delaware: https://delawarebankruptcy.org/wilmington/means-test.html
+- Bankruptcy Guide for Bear, Delaware: https://delawarebankruptcy.org/wilmington/suburbs/bear.html
+- Bankruptcy Guide for Dover, Delaware: https://delawarebankruptcy.org/wilmington/suburbs/dover.html
+- Bankruptcy Guide for Middletown, Delaware: https://delawarebankruptcy.org/wilmington/suburbs/middletown.html
+- Bankruptcy Guide for Newark, Delaware: https://delawarebankruptcy.org/wilmington/suburbs/newark-de.html
+- Privacy Policy: https://delawarebankruptcy.org/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
