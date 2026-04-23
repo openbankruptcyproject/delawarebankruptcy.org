@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
-Sitemap: https://delawarebankruptcy.org/sitemap.xml
 
-Sitemap: https://delawarebankruptcy.org/feed.xml
+
+Sitemap: https://delawarebankruptcy.org/sitemapindex.xml
