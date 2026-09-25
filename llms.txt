@@ -1,5 +1,5 @@
-# Delaware Bankruptcy - Chapter 7 & 13 Filing Guide [2026]
-> Last updated: 2026-05-01
+# Delaware Bankruptcy - Chapter 7 &amp; 13 Filing Guide [2026]
+> Last updated: 2026-09-25
 
 > Free Delaware bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, Delaware exemptions, filing costs, means test, and what to expect in your case.
 
@@ -32,12 +32,12 @@ delawarebankruptcy.org is part of the Open Bankruptcy Project (openbankruptcypro
 - Can I Keep My Jewelry in Delaware Bankruptcy?: https://delawarebankruptcy.org/engagement-ring.html
 - Can Bankruptcy Stop an Eviction in Delaware?: https://delawarebankruptcy.org/eviction.html
 - Delaware Bankruptcy Exemptions - What You Can Keep: https://delawarebankruptcy.org/exemptions.html
-- Delaware Bankruptcy FAQ - 15 Common Questions Answered: https://delawarebankruptcy.org/faq.html
+- Delaware Bankruptcy FAQ [2026]: Filing Fees, Exemptions, and District of Delaware Procedure: https://delawarebankruptcy.org/faq.html
 - How to Find Bankruptcy Filings in Delaware: https://delawarebankruptcy.org/find-bankruptcy-filing.html
 - Foreclosure and Bankruptcy in Delaware: https://delawarebankruptcy.org/foreclosure.html
 - Delaware Bankruptcy Glossary: https://delawarebankruptcy.org/glossary.html
 - Bankruptcy Income Limits in Delaware: https://delawarebankruptcy.org/income-limits.html
-- Delaware Bankruptcy - Chapter 7 & 13 Filing Guide: https://delawarebankruptcy.org/
+- Delaware Bankruptcy - Chapter 7 &amp; 13 Filing Guide: https://delawarebankruptcy.org/
 - Judgments and Bankruptcy in Delaware: https://delawarebankruptcy.org/judgments.html
 - Keep Your Car in Bankruptcy in Delaware: https://delawarebankruptcy.org/keep-your-car.html
 - Keep Your House in Bankruptcy in Delaware: https://delawarebankruptcy.org/keep-your-house.html
@@ -53,7 +53,7 @@ delawarebankruptcy.org is part of the Open Bankruptcy Project (openbankruptcypro
 - Second Mortgages and Bankruptcy in Delaware: https://delawarebankruptcy.org/second-mortgage.html
 - Bankruptcy and Security Clearance in Delaware - Will I Lose My Clearance?: https://delawarebankruptcy.org/security-clearance.html
 - Small Business Bankruptcy in Delaware: https://delawarebankruptcy.org/small-business.html
-- Delaware Bankruptcy Statistics - Filing Data and Trends: https://delawarebankruptcy.org/statistics.html
+- Delaware Bankruptcy Statistics [2026]: District of Delaware Filing Trends and Chapter 11 Volume: https://delawarebankruptcy.org/statistics.html
 - What Bills to Stop Paying Before Bankruptcy in Delaware: https://delawarebankruptcy.org/stop-paying-bills.html
 - Student Loans and Bankruptcy in Delaware: https://delawarebankruptcy.org/student-loans.html
 - Surrendering Your Car in Delaware Bankruptcy - Process, Deficiency, Options: https://delawarebankruptcy.org/surrender-car.html
@@ -76,6 +76,7 @@ delawarebankruptcy.org is part of the Open Bankruptcy Project (openbankruptcypro
 - Bankruptcy Guide for Middletown, Delaware: https://delawarebankruptcy.org/wilmington/suburbs/middletown.html
 - Bankruptcy Guide for Newark, Delaware: https://delawarebankruptcy.org/wilmington/suburbs/newark-de.html
 - Privacy Policy: https://delawarebankruptcy.org/privacy.html
+- About delawarebankruptcy.org: https://delawarebankruptcy.org/about.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org

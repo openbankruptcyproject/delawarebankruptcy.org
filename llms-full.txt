@@ -1,6 +1,6 @@
 # delawarebankruptcy.org -- Full Content
 
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 This file contains the full text content of all pages on delawarebankruptcy.org.
 Part of the Open Bankruptcy Project (openbankruptcyproject.org).
@@ -21,6 +21,8 @@ The 341 Meeting of Creditors in Delaware
 What to expect at the 341 meeting of creditors in Delaware. Location, questions asked, what to bring, and how to prepare for your hearing in the District of Delaware.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+The 341 meeting (named after 11 U.S.C. section 341) is a required hearing where the bankruptcy trustee and any creditors can ask you questions under oath about your finances, assets, and petition. In the District of Delaware, these meetings are held at 824 Market St, Wilmington, DE 19801.
 
 What Is the 341 Meeting?
 
@@ -156,15 +158,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -189,6 +209,8 @@ The Automatic Stay in Delaware Bankruptcy
 Learn how the automatic stay protects Delaware residents when filing bankruptcy. What stops immediately, what does not, stay violations, and your rights under 11 U.S.C. section 362.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+The automatic stay is a federal court order under 11 U.S.C. section 362 that takes effect the instant you file bankruptcy in the District of Delaware. It immediately stops most collection actions including wage garnishment, foreclosure, repossession, lawsuits, creditor calls, and utility shutoffs.
 
 What the Automatic Stay Stops Immediately
 
@@ -332,15 +354,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -365,6 +405,8 @@ Bank Accounts and Bankruptcy in Delaware
 Understanding how bankruptcy interacts with your bank accounts in Delaware can help you protect your money and avoid unexpected freezes or seizures.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. Before bankruptcy, a creditor with a judgment can levy (freeze and seize funds from) your bank account in Delaware. After you file bankruptcy, the automatic stay immediately prohibits any new levies and may require release of frozen funds.
 
 Bank Account Levies and the Automatic Stay
 
@@ -438,7 +480,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -470,15 +511,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -502,7 +561,7 @@ Can I Buy a Car While in Chapter 13 in Delaware?
 
 Yes - but you need court permission first. Buying a car during Chapter 13 requires filing a motion, getting trustee approval, and showing the purchase fits your budget.
 
-Quick answer: You can buy a car during Chapter 13 in Delaware, but you must file a Motion to Incur New Debt and get court/trustee approval before signing anything. The court will evaluate whether the purchase is necessary and affordable within your plan.
+Quick answer: You can buy a car during Chapter 13 in Delaware, but the typical mechanism is filing a Motion to Incur New Debt and obtaining court/trustee approval before signing anything. The court will evaluate whether the purchase is necessary and affordable within your plan.
 
 The Process: Step by Step
 
@@ -554,7 +613,7 @@ Frequently Asked Questions
 
 Can I buy a car while in Chapter 13 in Delaware?
 
-Yes, but you need court approval. You must file a motion with the bankruptcy court requesting permission to incur new debt. The trustee and court will evaluate whether the purchase is necessary, whether you can afford it within your plan, and whether the terms are reasonable.
+Court approval is generally required. The typical mechanism is filing a motion with the bankruptcy court requesting permission to incur new debt. The trustee and court will evaluate whether the purchase is necessary, whether you can afford it within your plan, and whether the terms are reasonable.
 
 Do I need trustee approval to buy a car in Delaware Chapter 13?
 
@@ -570,7 +629,7 @@ You or your attorney file a Motion to Incur New Debt with the bankruptcy court. 
 
 Can I lease a car during Chapter 13 in Delaware?
 
-Leasing during Chapter 13 is treated the same as buying - you need court approval. Some courts view leases less favorably because they do not build equity. The total lease cost will be compared against purchasing.
+Leasing during Chapter 13 is treated the same as buying - court approval is generally required. Some courts view leases less favorably because they do not build equity. The total lease cost will be compared against purchasing.
 
 What happens if I buy a car without court approval?
 
@@ -612,15 +671,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -645,6 +722,8 @@ Buying a House After Bankruptcy in Delaware
 Bankruptcy does not permanently prevent homeownership. Thousands of Americans buy homes after bankruptcy every year. Here are the waiting periods, requirements, and strategies for Delaware residents.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+After Chapter 7: 2-4 years depending on the loan type (FHA requires 2 years, conventional requires 4 years). After Chapter 13: 1-2 years after discharge (FHA may allow applications during an active plan with trustee approval). VA loans require 2 years after Chapter 7 and may allow applications during Chapter 13.
 
 Waiting Periods by Loan Type
 
@@ -724,7 +803,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -756,15 +834,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -926,15 +1022,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -959,6 +1073,8 @@ Chapter 13 Bankruptcy Eligibility in Delaware
 Chapter 13 lets Delaware residents keep their property while repaying debts over 3-5 years. Here are the eligibility requirements.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Under Section 109(e) of the Bankruptcy Code, Chapter 13 has two separate debt limits: noncontingent, liquidated unsecured debts must be less than $526,700, and noncontingent, liquidated secured debts must be less than $1,580,125. These limits adjust every three years (most recently on April 1, 2025). From June 2022 to June 21, 2024, a temporary law combined these into a single $2,750,000 limit; that provision expired. If your debts exceed either limit, you may need to file Chapter 11 instead.
 
 Core Eligibility Requirements
 
@@ -1056,7 +1172,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -1088,15 +1203,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -1121,6 +1254,8 @@ Chapter 13 Payments in Delaware
 Your Chapter 13 plan payment is based on your income, expenses, and debts. Here is how it works in Delaware and what to do if you cannot keep up.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Your monthly payment depends on your disposable income (income minus allowed expenses), the amount of secured and priority debts you must pay, and the liquidation test (unsecured creditors must receive at least what they would get in Chapter 7). Most Delaware Chapter 13 payments range from a few hundred to a few thousand dollars per month.
 
 How Payments Are Calculated
 
@@ -1208,7 +1343,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -1240,15 +1374,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -1283,6 +1435,8 @@ Filing Fee
 $125,000
 
 Homestead Exemption
+
+Chapter 13 plans last 3 to 5 years. If your income is below the Delaware median, you may qualify for a 3-year plan. If above the median, your plan must be 5 years. During this time, you make monthly payments to a trustee who distributes the money to your creditors.
 
 What Is Chapter 13?
 
@@ -1389,15 +1543,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -1422,6 +1594,8 @@ Chapter 7 Bankruptcy Eligibility in Delaware
 Chapter 7 bankruptcy can eliminate most unsecured debt in 3-4 months. Here is how to determine whether you qualify to file in Delaware.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+To qualify for Chapter 7 in Delaware, your household income must be at or below the state median income for your household size. If above median, you must pass the means test, which deducts allowed expenses from your income. If the result shows insufficient disposable income, you still qualify. Current Delaware median income figures are updated twice yearly.
 
 The Means Test
 
@@ -1503,7 +1677,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -1535,15 +1708,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -1566,6 +1757,8 @@ Home›Chapter 7
 Chapter 7 Bankruptcy in Delaware
 
 Chapter 7 is the fastest path to debt relief. Most unsecured debts are eliminated in 3-4 months. Here is what Delaware residents need to know.
+
+Chapter 7 discharges most unsecured debts including credit cards, medical bills, personal loans, and old utility bills. It does not discharge student loans (in most cases), recent taxes, child support, alimony, or debts incurred through fraud.
 
 What Is Chapter 7?
 
@@ -1698,15 +1891,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -1731,6 +1942,8 @@ Bankruptcy Filing Checklist for Delaware
 Complete checklist for filing bankruptcy in Delaware. Documents needed, steps to take, and what to expect before, during, and after filing in the District of Delaware.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+You need: tax returns (last 2 years), pay stubs (last 6 months), bank statements (last 6 months), a list of all debts with account numbers and balances, vehicle titles and registration, mortgage statement, proof of insurance, and a credit report. You also need a certificate of completion from an approved credit counseling agency.
 
 Before Filing
 
@@ -1874,15 +2087,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -1907,6 +2138,8 @@ Converting Bankruptcy Chapters in Delaware
 If your financial situation changes after filing, Delaware debtors can convert between bankruptcy chapters. Understanding your conversion rights can help you get the best outcome.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. Under 11 U.S.C. section 706 and section 1307, you generally have the right to convert between chapters. Chapter 7 debtors can convert to Chapter 13 once as a matter of right. Chapter 13 debtors can convert to Chapter 7 at any time if they have not previously converted from Chapter 7.
 
 Conversion Options
 
@@ -1990,7 +2223,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -2022,15 +2254,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -2065,6 +2315,8 @@ Chapter 13 Filing Fee
 $25-50
 
 Credit Counseling (2 courses)
+
+The Chapter 7 filing fee is $338. Attorney fees in Delaware typically range from $1,200 to $2,000. Credit counseling courses cost about $25-50 total (two required). Fee waivers are available if your income is below 150% of the federal poverty guidelines.
 
 Chapter 7 Cost Breakdown
 
@@ -2157,15 +2409,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -2190,6 +2460,8 @@ Rebuilding Credit After Bankruptcy in Delaware
 How to rebuild your credit after filing bankruptcy in Delaware. Timeline, secured cards, auto loans, mortgages, and practical steps for a fresh start.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Chapter 7 stays on your credit report for 10 years from the filing date. Chapter 13 stays for 7 years from the filing date. However, the impact on your credit score diminishes significantly after 2-3 years of responsible credit use.
 
 The Credit Recovery Timeline
 
@@ -2319,15 +2591,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -2353,6 +2643,8 @@ Credit card debt is one of the most common reasons Delaware residents file for b
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
 
+Yes. Credit card debt is unsecured debt and is generally dischargeable in both Chapter 7 and Chapter 13 bankruptcy in Delaware. In Chapter 7, it is eliminated entirely. In Chapter 13, you pay a percentage based on your disposable income over 3-5 years, and the rest is discharged.
+
 How Each Chapter Handles Credit Card Debt
 
 Chapter 7
@@ -2367,7 +2659,7 @@ Recent Charges: The 90-Day and 70-Day Rules
 
 Under 11 U.S.C. section 523(a)(2)(C), certain recent credit card activity is presumed to be non-dischargeable:
 
-Luxury goods/services over $800 charged within 90 days before filing
+Luxury goods/services over $900 charged within 90 days before filing
 
 Cash advances over $1,250 within 70 days before filing
 
@@ -2429,7 +2721,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -2461,15 +2752,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -2501,7 +2810,7 @@ The Two Presumption Periods
 
 Applies to purchases of luxury goods/services
 
-Threshold: $800+ to a single creditor
+Threshold: $900+ to a single creditor
 
 Within 90 days of filing
 
@@ -2513,7 +2822,7 @@ Presumed non-dischargeable (you must prove otherwise)
 
 Applies to cash advances
 
-Threshold: $1,100+ in aggregate
+Threshold: $1,250+ in aggregate
 
 Within 70 days of filing
 
@@ -2569,7 +2878,7 @@ Technically you can, but it is strongly discouraged. Charges made with no intent
 
 What is the 90-day rule for credit cards before bankruptcy?
 
-Under 11 U.S.C. section 523(a)(2)(C), charges for luxury goods or services exceeding $800 made within 90 days of filing bankruptcy are presumed to be non-dischargeable. The creditor does not have to prove fraud - you must prove the charges were not fraudulent.
+Under 11 U.S.C. section 523(a)(2)(C), charges for luxury goods or services exceeding $900 made within 90 days of filing bankruptcy are presumed to be non-dischargeable. The creditor does not have to prove fraud - you must prove the charges were not fraudulent.
 
 What is the 70-day rule for cash advances?
 
@@ -2623,15 +2932,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -2656,6 +2983,8 @@ Types of Debt in Delaware Bankruptcy
 Which debts can be discharged in Delaware bankruptcy? Secured vs unsecured, priority vs non-priority, and non-dischargeable debts explained.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Most unsecured debts can be discharged including credit cards, medical bills, personal loans, utility bills, and old lease obligations. Secured debts (mortgage, car loan) can be discharged but the lien survives. Some debts like student loans require proving undue hardship.
 
 Debt Categories in Bankruptcy
 
@@ -2785,15 +3114,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -2818,6 +3165,8 @@ Bankruptcy Disqualifications in Delaware
 Not everyone qualifies for bankruptcy relief. Understanding the disqualifications can help Delaware residents plan their filing strategy.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+You may be disqualified from bankruptcy if: you did not complete credit counseling, you received a recent prior discharge (8 years for Ch.7-to-Ch.7, 4 years for Ch.7-to-Ch.13, 6 years for Ch.13-to-Ch.7, 2 years for Ch.13-to-Ch.13), you committed fraud, your prior case was dismissed within 180 days for cause, or your income is too high for Chapter 7 and debts exceed Chapter 13 limits.
 
 Filing Bars: When You Cannot File
 
@@ -2913,7 +3262,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -2945,15 +3293,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -2978,6 +3344,8 @@ Divorce and Bankruptcy in Delaware
 Divorce and bankruptcy often occur together. Understanding how they interact in Delaware can help you protect your assets, manage shared debts, and plan the best filing strategy.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. You can file bankruptcy before, during, or after a divorce in Delaware. The timing affects how debts and property are divided. Filing before the divorce can simplify property division by eliminating joint unsecured debt.
 
 Filing Order: Bankruptcy Before, During, or After Divorce
 
@@ -3061,7 +3429,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -3093,15 +3460,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -3126,6 +3511,8 @@ Emergency Bankruptcy Filing in Delaware
 When foreclosure, repossession, or garnishment is days or even hours away, Delaware residents can file an emergency bankruptcy petition to trigger the automatic stay immediately.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. You can file an emergency (bare-bones) bankruptcy petition in Delaware to get the automatic stay protection immediately. You file only the two-page voluntary petition, a creditor list, and proof of credit counseling. You then have 14 days to file the remaining schedules and documents.
 
 What Is an Emergency Bankruptcy Filing?
 
@@ -3224,7 +3611,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -3256,15 +3642,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -3430,15 +3834,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -3570,15 +3992,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -3740,15 +4180,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -3771,6 +4229,8 @@ Home›Exemptions
 Delaware Bankruptcy Exemptions
 
 Exemptions determine what property you get to keep when you file bankruptcy. Understanding Delaware's exemptions is critical - they can mean the difference between keeping and losing your home, car, and savings.
+
+Delaware's homestead exemption protects up to $125,000 of equity in your primary residence. Delaware also allows filers to choose federal exemptions, which may be more beneficial for renters.
 
 What Are Exemptions?
 
@@ -3871,15 +4331,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -3891,7 +4369,7 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 ---
 
-## Delaware Bankruptcy FAQ - 15 Common Questions Answered
+## Delaware Bankruptcy FAQ [2026]: Filing Fees, Exemptions, and District of Delaware Procedure
 Source: https://delawarebankruptcy.org/faq.html
 
 Delaware Bankruptcy Guide
@@ -3902,6 +4380,8 @@ Home›Faq
 Delaware Bankruptcy FAQ
 
 Answers to the 15 most common questions from Delaware residents considering bankruptcy.
+
+Chapter 7 filing fee is $338 and Chapter 13 is $313. Attorney fees typically range from $1,200 to $2,000 for Chapter 7 and $3,000 to $4,500 for Chapter 13. Credit counseling costs about $25-50 total. Chapter 13 fees can be paid through your repayment plan. Fee waivers available for low-income Chapter 7 filers.
 
 Cost and Eligibility
 
@@ -3996,15 +4476,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -4162,15 +4660,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -4195,6 +4711,8 @@ Stop Foreclosure with Bankruptcy in Delaware
 How bankruptcy stops foreclosure in Delaware. Delaware uses judicial foreclosure (approximately 6 months or longer). Chapter 13 mortgage catch-up, Chapter 7 timeline, and your options.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. Filing either Chapter 7 or Chapter 13 immediately triggers the automatic stay, which halts all foreclosure proceedings. Delaware uses judicial foreclosure, which typically takes approximately 6 months or longer.
 
 Foreclosure in Delaware
 
@@ -4312,15 +4830,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -4345,6 +4881,8 @@ Delaware Bankruptcy Glossary
 Key bankruptcy terms and definitions for Delaware filers, from automatic stay to wildcard exemption.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Chapter 7 eliminates most unsecured debt in 3-4 months through liquidation of non-exempt assets. Chapter 13 is a 3-5 year repayment plan for people with regular income. Chapter 7 has income limits (means test); Chapter 13 has debt limits ($526,700 unsecured, $1,580,125 secured).
 
 Bankruptcy Terms A-Z
 
@@ -4455,7 +4993,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -4487,15 +5024,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -4520,6 +5075,8 @@ Bankruptcy Income Limits in Delaware
 Your income determines which bankruptcy chapter you qualify for in Delaware and how much you pay in Chapter 13. Here is how the income limits work.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+For Chapter 7, your household income must be at or below the Delaware median for your household size, or you must pass the means test expense deduction. Chapter 13 has no income ceiling - anyone with regular income can file. However, Chapter 13 has debt limits: $526,700 in unsecured debts and $1,580,125 in secured debts.
 
 Chapter 7 Income Limits
 
@@ -4597,7 +5154,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -4629,15 +5185,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -4649,13 +5223,13 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 ---
 
-## Delaware Bankruptcy - Chapter 7 & 13 Filing Guide [2026]
+## Delaware Bankruptcy - Chapter 7 &amp; 13 Filing Guide [2026]
 Source: https://delawarebankruptcy.org/
 
 Skip to main content
 
 Delaware Bankruptcy Guide
-HomeChapter 7Chapter 13ExemptionsCostFAQStatsResourcesOBP Rule 9037 PII Scanner
+HomeChapter 7Chapter 13ExemptionsCostFAQStatsResourcesOBP Rule 9037 Compliance Guide
 
 Delaware Bankruptcy - Your Complete Filing Guide for 2026
 
@@ -4679,6 +5253,8 @@ Chapter 7 Filing Fee
 $313
 
 Chapter 13 Filing Fee
+
+Chapter 7 filing fees are $338 and Chapter 13 filing fees are $313. Attorney fees in Delaware typically range from $1,200 to $2,000 for Chapter 7 and $3,000 to $4,500 for Chapter 13. You will also need to pay for two required credit counseling courses, usually $25-$50 total.
 
 Chapter 7 vs. Chapter 13: Which Is Right for You?
 
@@ -4806,7 +5382,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -4854,19 +5429,33 @@ Avoid high-volume firms with poor outcomes
 
 bankruptcymill.org →
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
 
-Privacy Policy
+♥ Donate
 
-Cited by the Federal Rules Committee (26-BK-3)
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 Have a Question?
 
@@ -4952,6 +5541,72 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
+
+Site Map
+
+Additional resources on this site
+
+Bank Account
+Buy Car Chapter 13
+Buying A House
+Car Lease
+Chapter 13 Eligibility
+Chapter 13 Payments
+Chapter 7 Eligibility
+Converting Chapters
+Credit Card Debt
+Credit Cards Before Filing
+Debt Types
+Disqualifications
+Divorce And Bankruptcy
+Emergency Bankruptcy
+Employment
+Engagement Ring
+Eviction
+Find Bankruptcy Filing
+Foreclosure
+Income Limits
+Index
+Judgments
+Medical Debt Only
+Payday Loans
+Reaffirmation Regret
+Renting After Bankruptcy
+Repo Credit Report
+Repossession
+Retirement Accounts
+Second Mortgage
+Small Business
+Stop Paying Bills
+Student Loans
+Surrender Car
+Tax Debt
+Tax Refund Chapter13
+Timeline
+Timeshare
+Travel Chapter 13
+
 ---
 
 ## Judgments and Bankruptcy in Delaware
@@ -4967,6 +5622,8 @@ Judgments and Bankruptcy in Delaware
 A civil judgment against you does not mean you are out of options. Bankruptcy can discharge the underlying debt and even remove judgment liens from your property in Delaware.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. Most money judgments based on unsecured debt (credit cards, medical bills, personal loans) are dischargeable in bankruptcy in Delaware. The underlying debt determines dischargeability - if the original debt was dischargeable, the judgment based on that debt is also dischargeable.
 
 Discharging Judgments in Bankruptcy
 
@@ -5058,7 +5715,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -5090,15 +5746,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5123,6 +5797,8 @@ Keeping Your Car in Delaware Bankruptcy
 How to keep your car when filing bankruptcy in Delaware. Vehicle exemption ($15,000), reaffirmation, redemption, and Chapter 13 cramdown options.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes, in most cases. Delaware's vehicle exemption protects up to $15,000 in equity per vehicle. Delaware allows you to choose between state and federal exemptions, so compare both to see which protects more of your vehicle equity. If your equity is within the exemption, you can keep your car in Chapter 7. Chapter 13 lets you keep your car while catching up on payments.
 
 Delaware Vehicle Exemption
 
@@ -5224,15 +5900,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5257,6 +5951,8 @@ Keeping Your House in Delaware Bankruptcy
 How to keep your home when filing bankruptcy in Delaware. Homestead exemption ($125,000), Chapter 13 mortgage catch-up, and foreclosure defense.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes, in most cases. Delaware's homestead exemption protects up to $125,000 in home equity. If your equity is within the exemption, your home is protected in Chapter 7. Chapter 13 lets you catch up on missed mortgage payments over 3-5 years.
 
 Delaware Homestead Exemption
 
@@ -5356,15 +6052,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5508,15 +6222,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5541,6 +6273,8 @@ Medical Debt and Bankruptcy in Delaware
 How bankruptcy eliminates medical debt in Delaware. Chapter 7 vs Chapter 13, medical bills in collections, hospital liens, and your rights.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. Medical debt is unsecured debt and is fully dischargeable in both Chapter 7 and Chapter 13 bankruptcy. It is one of the most common reasons people file for bankruptcy nationwide.
 
 Medical Debt Is Fully Dischargeable
 
@@ -5653,15 +6387,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5686,6 +6438,8 @@ Payday Loans and Bankruptcy in Delaware
 Payday loans trap borrowers in cycles of high-interest debt. Bankruptcy can break that cycle by discharging payday loan obligations entirely.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. Payday loans are unsecured debt and are fully dischargeable in both Chapter 7 and Chapter 13 bankruptcy in Delaware. Once discharged, the lender cannot collect, even if they have post-dated checks or ACH authorization.
 
 Payday Loans Are Dischargeable
 
@@ -5753,7 +6507,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -5785,15 +6538,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5919,15 +6690,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6065,15 +6854,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6241,15 +7048,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6274,6 +7099,8 @@ Stop Repossession in Delaware with Bankruptcy
 How bankruptcy stops vehicle repossession in Delaware. Get your car back, Chapter 13 cramdown, reaffirmation, and your rights under Delaware law.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. Filing bankruptcy immediately triggers the automatic stay, which stops all repossession attempts. If you file before the vehicle is repossessed, the lender cannot take it. Delaware's vehicle exemption protects up to $15,000 in equity.
 
 Stopping Repossession in Delaware
 
@@ -6391,15 +7218,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6422,6 +7267,8 @@ Home›Resources
 Delaware Bankruptcy Resources
 
 Courts, legal aid organizations, credit counseling agencies, and free educational tools to help you navigate the bankruptcy process in Delaware.
+
+Delaware has 1 federal bankruptcy court. D. Del.: 824 N. Market St, Wilmington, DE 19801 ((302) 252-2900)
 
 Bankruptcy Courts
 
@@ -6536,15 +7383,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6566,7 +7431,7 @@ Home›Retirement Accounts and Bankruptcy in Delaware
 
 Retirement Accounts and Bankruptcy in Delaware
 
-Your retirement savings are among the most protected assets in bankruptcy. ERISA-qualified plans are 100% exempt under federal law, and IRAs are protected up to $1,512,350. Here is what Delaware filers need to know.
+Your retirement savings are among the most protected assets in bankruptcy. ERISA-qualified plans are 100% exempt under federal law, and IRAs are protected up to $1,711,975. Here is what Delaware filers need to know.
 
 Quick answer: Your 401(k), 403(b), pension, and other ERISA-qualified retirement plans are 100% exempt in bankruptcy - no dollar limit. IRAs (traditional and Roth) are protected up to $1,711,975. Do NOT cash out retirement to pay debts or avoid filing. That converts protected money into unprotected money.
 
@@ -6588,7 +7453,7 @@ Thrift Savings Plan (TSP) - fully exempt for federal employees
 
 This protection applies nationwide regardless of state exemption choices. The trustee cannot touch these accounts.
 
-IRAs: Protected Up to $1,512,350
+IRAs: Protected Up to $1,711,975
 
 Traditional IRAs and Roth IRAs are protected under 11 U.S.C. section 522(n) up to a combined limit of $1,711,975 (adjusted for inflation). This limit applies to:
 
@@ -6684,15 +7549,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6717,6 +7600,8 @@ Second Mortgages and Bankruptcy in Delaware
 If your Delaware home is worth less than your first mortgage, Chapter 13 lien stripping can eliminate your second mortgage entirely.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes, through a process called lien stripping in Chapter 13. If your home is worth less than what you owe on your first mortgage, the second mortgage is considered wholly unsecured and can be treated as general unsecured debt in your plan. At completion of the plan, the lien is removed.
 
 What Is Lien Stripping?
 
@@ -6798,7 +7683,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -6830,15 +7714,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6984,15 +7886,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7017,6 +7937,8 @@ Small Business Bankruptcy in Delaware
 Guide to small business bankruptcy in Delaware. Chapter 7 liquidation, Chapter 11 Subchapter V, Chapter 13 for sole proprietors, and protecting your business.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Small businesses in Delaware can file Chapter 7 (liquidation), Chapter 11 (reorganization), Chapter 11 Subchapter V (streamlined for small businesses with debts of no more than $3,424,000), or Chapter 13 (for sole proprietors with debts under the limit). The best choice depends on whether you want to continue or close the business.
 
 Small Business Bankruptcy Options in Delaware
 
@@ -7157,15 +8079,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7177,7 +8117,7 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 ---
 
-## Delaware Bankruptcy Statistics - Filing Data and Trends
+## Delaware Bankruptcy Statistics [2026]: District of Delaware Filing Trends and Chapter 11 Volume
 Source: https://delawarebankruptcy.org/statistics.html
 
 Delaware Bankruptcy Guide
@@ -7204,6 +8144,8 @@ Chapter 7 Filing Fee
 $313
 
 Chapter 13 Filing Fee
+
+Since 2008, Delaware's district has processed over 15,000+ bankruptcy cases. Filing volumes peaked around 2010-2011 following the financial crisis and have generally declined since.
 
 Delaware Federal Court District
 
@@ -7253,7 +8195,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -7285,15 +8226,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7421,15 +8380,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7454,6 +8431,8 @@ Student Loans and Bankruptcy in Delaware
 Can you discharge student loans in bankruptcy in Delaware? The Brunner test, undue hardship, income-driven repayment, and recent developments.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Student loans can be discharged in bankruptcy in Delaware, but only if you prove undue hardship to the court through an adversary proceeding. The standard used in the District of Delaware is the Brunner test, which requires showing you cannot maintain a minimal standard of living, your situation is likely to persist, and you have made good-faith efforts to repay.
 
 The Undue Hardship Standard
 
@@ -7569,15 +8548,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7733,15 +8730,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7766,6 +8781,8 @@ Tax Debt and Bankruptcy in Delaware
 Can you discharge tax debt in Delaware bankruptcy? IRS rules, the 3-year/2-year/240-day tests, priority vs. non-priority taxes, and state tax obligations.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes, certain tax debts can be discharged in bankruptcy if they meet specific age and filing requirements. Income taxes that are more than 3 years old, were filed on time (or more than 2 years ago if filed late), and were assessed more than 240 days ago may be dischargeable.
 
 Which Tax Debts Can Be Discharged?
 
@@ -7881,15 +8898,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8015,15 +9050,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8048,6 +9101,8 @@ Bankruptcy Timeline in Delaware
 Step-by-step timeline for filing bankruptcy in Delaware. From credit counseling to discharge, what happens and when in the District of Delaware.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Chapter 7 in the District of Delaware typically takes 3-4 months from filing to discharge. The 341 meeting happens about 30-40 days after filing. The discharge is entered approximately 60 days after the 341 meeting.
 
 Chapter 7 Timeline
 
@@ -8166,15 +9221,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8328,15 +9401,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8474,15 +9565,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8507,6 +9616,8 @@ Stop Wage Garnishment in Delaware
 How bankruptcy stops wage garnishment in Delaware. Delaware garnishment limits, the automatic stay, and recovering garnished wages.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+In Delaware, creditors can garnish 15% of disposable earnings - more protective than the federal standard of 25%. Filing bankruptcy immediately stops all garnishment through the automatic stay.
 
 Delaware Garnishment Laws
 
@@ -8614,15 +9725,33 @@ Delaware Exemptions
 
 Bankruptcy Cost in Delaware
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+delawarebankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8647,6 +9776,8 @@ Home›Delaware Bankruptcy Guide›Wilmington›341 Meeting
 The 341 meeting is a brief, required hearing in every bankruptcy case. Here is what Wilmington residents need to know.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+The 341 meeting of creditors is a brief hearing where the bankruptcy trustee asks you questions under oath about your finances, assets, and debts. It is required in every bankruptcy case.
 
 What Happens at the 341 Meeting
 
@@ -8758,6 +9889,8 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Chapter 13 Bankruptcy in Wilmington, Delaware - Repayment Plans
@@ -8773,6 +9906,8 @@ Chapter 13 Bankruptcy in Wilmington, Delaware
 Chapter 13 lets you reorganize your debts into a manageable 3-5 year repayment plan while keeping your property. Here is how it works for Wilmington residents.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Chapter 13 lets you keep your property while repaying debts over 3-5 years through a court-approved plan. Cases are filed in the D. Del..
 
 How Chapter 13 Works
 
@@ -8888,6 +10023,8 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Chapter 7 Bankruptcy in Wilmington, Delaware - Eliminate Debt
@@ -8903,6 +10040,8 @@ Chapter 7 Bankruptcy in Wilmington, Delaware
 Chapter 7 is the fastest form of bankruptcy relief. Most unsecured debts are eliminated in 3-4 months. Here is how it works for Wilmington residents filing in the D. Del..
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+You must pass the means test. If your household income is below the Delaware median, you qualify automatically. If above, a detailed expense calculation determines eligibility.
 
 What Is Chapter 7?
 
@@ -9036,6 +10175,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## How Much Does Bankruptcy Cost in Wilmington, Delaware?
@@ -9051,6 +10192,8 @@ How Much Does Bankruptcy Cost in Wilmington?
 A complete breakdown of filing fees, attorney costs, and other expenses for bankruptcy in Wilmington, Delaware.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+The filing fee is $338. Attorney fees typically range from $1,200 to $2,500. You also need two credit counseling courses ($25-$50 total).
 
 Filing Fees
 
@@ -9148,6 +10291,8 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Delaware Bankruptcy Exemptions - What You Can Keep in Wilmington
@@ -9163,6 +10308,8 @@ Delaware Bankruptcy Exemptions
 Exemptions determine what property you can keep when filing bankruptcy. Delaware has specific exemption amounts that protect your home, car, and personal property.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Delaware's homestead exemption protects up to $125,000 of equity in your primary residence.
 
 Key Delaware Exemptions
 
@@ -9254,6 +10401,8 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy FAQ - Common Questions for Wilmington, Delaware
@@ -9269,6 +10418,8 @@ Bankruptcy FAQ for Wilmington, Delaware
 Answers to the most common questions about filing bankruptcy in Wilmington.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+You file a bankruptcy petition with the D. Del.. Most people hire an attorney, though you can file pro se. Before filing, you must complete a credit counseling course.
 
 Frequently Asked Questions
 
@@ -9360,6 +10511,8 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Filing Bankruptcy in Wilmington, Delaware - Your Complete Guide
@@ -9389,6 +10542,8 @@ Chapter 7 Filing Fee
 $313
 
 Chapter 13 Filing Fee
+
+Chapter 7 filing fees are $338 and Chapter 13 filing fees are $313. Attorney fees in Wilmington typically range from $1,200 to $2,500 for Chapter 7 and $3,500 to $5,500 for Chapter 13.
 
 Explore Wilmington Bankruptcy Topics
 
@@ -9516,6 +10671,30 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
+
 ---
 
 ## Wilmington Means Test: Do You Qualify for Chapter 7? - Delaware
@@ -9531,6 +10710,8 @@ Wilmington Means Test: Do You Qualify for Chapter 7?
 The means test determines whether you can file Chapter 7 bankruptcy. Your income is compared to the Delaware median for your household size.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+The 2026 Delaware median income thresholds are: 1-person household $63,057, 2-person $80,238, 3-person $96,649, 4-person $115,946. Add approximately $9,900 for each additional household member.
 
 2026 Delaware Median Income Thresholds
 
@@ -9564,7 +10745,7 @@ If your annualized CMI is at or below the median, you pass. No further calculati
 
 4If above median: Calculate disposable income
 
-Subtract IRS-approved living expenses, secured debt payments, and priority debts. If remaining disposable income (x60) is less than $9,075, you pass.
+Subtract IRS-approved living expenses, secured debt payments, and priority debts. If remaining disposable income (x60) is less than $10,275, you pass.
 
 Frequently Asked Questions
 
@@ -9632,6 +10813,8 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy Guide for Bear, Delaware
@@ -9663,6 +10846,8 @@ Chapter 7 Filing Fee
 $313
 
 Chapter 13 Filing Fee
+
+Residents of Bear, Delaware file in the D. Del.. You file in the district where you have lived for the greater part of the last 180 days.
 
 Filing Bankruptcy in Bear
 
@@ -9788,6 +10973,8 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy Guide for Dover, Delaware
@@ -9819,6 +11006,8 @@ Chapter 7 Filing Fee
 $313
 
 Chapter 13 Filing Fee
+
+Residents of Dover, Delaware file in the D. Del.. You file in the district where you have lived for the greater part of the last 180 days.
 
 Filing Bankruptcy in Dover
 
@@ -9944,6 +11133,8 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy Guide for Middletown, Delaware
@@ -9975,6 +11166,8 @@ Chapter 7 Filing Fee
 $313
 
 Chapter 13 Filing Fee
+
+Residents of Middletown, Delaware file in the D. Del.. You file in the district where you have lived for the greater part of the last 180 days.
 
 Filing Bankruptcy in Middletown
 
@@ -10100,6 +11293,8 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy Guide for Newark, Delaware
@@ -10131,6 +11326,8 @@ Chapter 7 Filing Fee
 $313
 
 Chapter 13 Filing Fee
+
+Residents of Newark, Delaware file in the D. Del.. You file in the district where you have lived for the greater part of the last 180 days.
 
 Filing Bankruptcy in Newark
 
@@ -10256,6 +11453,8 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Privacy Policy - delawarebankruptcy.org
@@ -10314,7 +11513,7 @@ You may request deletion of any personal data we hold by contacting info@openban
 
 Network Policy
 
-This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit. The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+This site is part of the Open Bankruptcy Project operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
 Changes
 
@@ -10324,6 +11523,61 @@ Effective: March 30, 2026  |  Updated: April 11, 2026
 
 Home  ·  Privacy  ·  Open Bankruptcy Project
 
-Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## About delawarebankruptcy.org
+Source: https://delawarebankruptcy.org/about.html
+
+delawarebankruptcy.org
+
+Home
+About
+Privacy
+
+About delawarebankruptcy.org
+
+Part of the Open Bankruptcy Project operated by the Open Bankruptcy Project.
+
+What This Site Is
+
+delawarebankruptcy.org is an educational resource operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). It's part of the Open Bankruptcy Project - a collection of free, public-interest sites that translate federal bankruptcy court data, statutes, and procedures into language ordinary people can use.
+
+The Open Bankruptcy Project
+
+The Open Bankruptcy Project builds free, open-source tools that make public bankruptcy court data accessible to the people it affects most - debtors, advocates, researchers, journalists, and policymakers. Every screening tool, analysis script, and dataset is published on GitHub. Anyone can audit, reproduce, or build upon the work without permission or payment.
+
+Our research is derived primarily from the Federal Judicial Center's Integrated Database covering all federal bankruptcy filings 2008 through 2024, cross-referenced with PACER docket data via the Free Law Project's RECAP archive and independent court-scraping tooling. Methodology and source code are public.
+
+What This Site Is Not
+
+This site is not a law firm. We do not represent clients, file bankruptcy cases, or give legal advice. We do not receive referral fees, affiliate commissions, or advertising revenue. We do not sell data.
+
+If you need legal advice about your specific situation, consult a licensed bankruptcy attorney in your state.
+
+Research Contributions
+
+Our research supports two accepted suggestions to the Federal Judicial Conference Advisory Committee on Bankruptcy Rules:
+
+Suggestion 26-BK-3 - procedural screening for 11 U.S.C. § 1328(f) re-filing eligibility
+
+Suggestion 26-BK-5 - Rule 9037 / Form 121 / Form 309E1 amendments addressing systematic unredacted Social Security number exposure on federal bankruptcy dockets
+
+Contact
+
+General inquiries, data requests, research collaboration, and media: info@openbankruptcyproject.org
+
+Privacy and Data Handling
+
+See our privacy policy for details. Short version: aggregate analytics only; no data sold, no advertising, no attorney referrals, no financial information collected.
+
+Home  ·  About  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
 
 No ads. No affiliate links. No data sold. Supported by donations.
