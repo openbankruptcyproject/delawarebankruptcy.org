@@ -980,7 +980,7 @@ Regular contributions from a spouse or household member
 
 2. Debt Limits
 
-Your total debts (secured plus unsecured) must not exceed $2,750,000. This combined limit was established by the Bankruptcy Threshold Adjustment and Technical Corrections Act of 2022.
+Under Section 109(e), your noncontingent, liquidated unsecured debts must be less than $526,700, and your noncontingent, liquidated secured debts must be less than $1,580,125. These limits adjust every three years (most recently on April 1, 2025). From June 2022 to June 21, 2024, a temporary law combined these into a single $2,750,000 limit; that provision expired.
 
 3. Tax Filing
 
@@ -1028,7 +1028,7 @@ Frequently Asked Questions
 
 What are the debt limits for Chapter 13 in Delaware?
 
-As of 2024, the debt limit for Chapter 13 is $2,750,000 in combined secured and unsecured debts. This limit was updated by the Bankruptcy Threshold Adjustment and Technical Corrections Act. If your debts exceed this amount, you may need to file Chapter 11 instead.
+Under Section 109(e) of the Bankruptcy Code, Chapter 13 has two separate debt limits: noncontingent, liquidated unsecured debts must be less than $526,700, and noncontingent, liquidated secured debts must be less than $1,580,125. These limits adjust every three years (most recently on April 1, 2025). From June 2022 to June 21, 2024, a temporary law combined these into a single $2,750,000 limit; that provision expired. If your debts exceed either limit, you may need to file Chapter 11 instead.
 
 Do I need regular income to file Chapter 13?
 
@@ -1623,11 +1623,11 @@ PropertyDelaware Exemption
 
 Homestead$125,000
 
-VehicleNo specific vehicle exemption under state law (federal alternative: $4,450)
+VehicleNo specific vehicle exemption under state law (federal alternative: $5,025)
 
 Household goodsNo specific limit under state law
 
-Wildcard$500 (state); federal wildcard: $1,475 + up to $13,950 unused homestead
+Wildcard$500 (state); federal wildcard: $1,675 + up to $15,800 unused homestead
 
 Tools of trade$15,000 (tools of trade)
 
@@ -1665,7 +1665,7 @@ From filing to discharge, Chapter 7 typically takes 3-4 months. The 341 meeting 
 
 What property can I keep in Chapter 7 in Delaware?
 
-Delaware exemptions protect: homestead equity up to $125,000, vehicle equity up to No specific vehicle exemption under state law (federal alternative: $4,450), household goods up to No specific limit under state law, and retirement accounts are fully exempt. Full exemption details.
+Delaware exemptions protect: homestead equity up to $125,000, vehicle equity up to No specific vehicle exemption under state law (federal alternative: $5,025), household goods up to No specific limit under state law, and retirement accounts are fully exempt. Full exemption details.
 
 Check Your Eligibility
 
@@ -2369,7 +2369,7 @@ Under 11 U.S.C. section 523(a)(2)(C), certain recent credit card activity is pre
 
 Luxury goods/services over $800 charged within 90 days before filing
 
-Cash advances over $1,100 within 70 days before filing
+Cash advances over $1,250 within 70 days before filing
 
 These are rebuttable presumptions. The credit card company must file an adversary proceeding to challenge discharge, and you can present evidence that the charges were made with the intent and ability to repay.
 
@@ -2405,7 +2405,7 @@ Yes. Credit card debt is unsecured debt and is generally dischargeable in both C
 
 Will recent credit card charges be discharged?
 
-Charges of over $800 for luxury goods or services within 90 days of filing, and cash advances over $1,100 within 70 days of filing, are presumed non-dischargeable under 11 U.S.C. section 523(a)(2)(C). The creditor must object for this to apply.
+Charges of over $900 for luxury goods or services within 90 days of filing, and cash advances over $1,250 within 70 days of filing, are presumed non-dischargeable under 11 U.S.C. section 523(a)(2)(C). The creditor must object for this to apply.
 
 Can creditors sue me for credit card debt?
 
@@ -2493,7 +2493,7 @@ Using Credit Cards Before Bankruptcy in Delaware
 
 Stop using credit cards once you decide to file bankruptcy. Charges made near filing can be challenged as fraud - and the presumption works against you.
 
-Quick answer: Do not use credit cards once you decide to file bankruptcy. Luxury purchases over $800 within 90 days and cash advances over $1,100 within 70 days are presumed fraudulent. These debts may survive your discharge.
+Quick answer: Do not use credit cards once you decide to file bankruptcy. Luxury purchases over $900 within 90 days and cash advances over $1,250 within 70 days are presumed fraudulent. These debts may survive your discharge.
 
 The Two Presumption Periods
 
@@ -2565,7 +2565,7 @@ Frequently Asked Questions
 
 Can I use credit cards before filing bankruptcy in Delaware?
 
-Technically you can, but it is strongly discouraged. Charges made with no intent to repay can be challenged as fraud. Luxury purchases over $800 within 90 days of filing are presumed fraudulent. Cash advances over $1,100 within 70 days are also presumed fraudulent.
+Technically you can, but it is strongly discouraged. Charges made with no intent to repay can be challenged as fraud. Luxury purchases over $900 within 90 days of filing are presumed fraudulent. Cash advances over $1,250 within 70 days are also presumed fraudulent.
 
 What is the 90-day rule for credit cards before bankruptcy?
 
@@ -2573,7 +2573,7 @@ Under 11 U.S.C. section 523(a)(2)(C), charges for luxury goods or services excee
 
 What is the 70-day rule for cash advances?
 
-Cash advances exceeding $1,100 taken within 70 days of filing are presumed non-dischargeable under 11 U.S.C. section 523(a)(2)(C). This includes balance transfers, convenience checks, and ATM cash advances.
+Cash advances exceeding $1,250 taken within 70 days of filing are presumed non-dischargeable under 11 U.S.C. section 523(a)(2)(C). This includes balance transfers, convenience checks, and ATM cash advances.
 
 What counts as a luxury purchase?
 
@@ -2699,7 +2699,7 @@ Administrative expenses - Trustee fees, attorney fees for the case
 
 Recent tax debts - Income taxes within 3 years, trust fund taxes
 
-Employee wages - Up to $15,150 per employee earned within 180 days before filing
+Employee wages - Up to $17,150 per employee earned within 180 days before filing
 
 Non-Dischargeable Debts
 
@@ -2742,7 +2742,7 @@ Priority debts must be paid in full before other unsecured debts receive anythin
 
 Can I discharge credit card debt in Delaware?
 
-Yes. Credit card debt is general unsecured debt and is fully dischargeable in both Chapter 7 and Chapter 13. However, charges made within 90 days of filing that exceed $800 for luxury goods, or cash advances over $1,100 within 70 days, may be presumed non-dischargeable.
+Yes. Credit card debt is general unsecured debt and is fully dischargeable in both Chapter 7 and Chapter 13. However, charges made within 90 days of filing that exceed $900 for luxury goods, or cash advances over $1,250 within 70 days, may be presumed non-dischargeable.
 
 What happens to cosigned debts in bankruptcy?
 
@@ -3462,11 +3462,11 @@ Can I Keep My Jewelry in Delaware Bankruptcy?
 
 Your engagement ring, wedding band, and other jewelry may be protected by Delaware exemptions. Here is what the law says and how values are determined.
 
-Quick answer: Delaware has no specific jewelry exemption in its state exemptions. However, Delaware allows filers to choose the federal exemptions, which include $1,875 for jewelry under 11 U.S.C. 522(d)(4). Most Delaware filers elect federal exemptions because they are often more generous overall.
+Quick answer: Delaware has no specific jewelry exemption in its state exemptions. However, Delaware allows filers to choose the federal exemptions, which include $2,125 for jewelry under 11 U.S.C. 522(d)(4). Most Delaware filers elect federal exemptions because they are often more generous overall.
 
 Delaware Jewelry Exemption Details
 
-Delaware has no specific jewelry exemption in its state exemptions. However, Delaware allows filers to choose the federal exemptions, which include $1,875 for jewelry under 11 U.S.C. 522(d)(4). Most Delaware filers elect federal exemptions because they are often more generous overall.
+Delaware has no specific jewelry exemption in its state exemptions. However, Delaware allows filers to choose the federal exemptions, which include $2,125 for jewelry under 11 U.S.C. 522(d)(4). Most Delaware filers elect federal exemptions because they are often more generous overall.
 
 The exemption amount is based on the jewelry's replacement value - what a comparable item would cost at retail, not what a pawnshop or jeweler would pay you. In practice, most everyday jewelry (wedding rings, watches, earrings) falls well within the exemption limits.
 
@@ -3506,17 +3506,17 @@ Chapter 13: In Chapter 13, you keep all your property. Instead of surrendering j
 
 Negotiate with trustee: You may be able to pay the trustee the non-exempt value in cash to keep the jewelry - called "buying back" the asset from the estate.
 
-Federal exemptions: If Delaware allows the federal exemptions (11 U.S.C. 522(d)), you may get a higher jewelry exemption ($1,875) plus a significant wildcard ($1,475 + up to $13,950 of unused homestead).
+Federal exemptions: If Delaware allows the federal exemptions (11 U.S.C. 522(d)), you may get a higher jewelry exemption ($2,125) plus a significant wildcard ($1,675 + up to $15,800 of unused homestead).
 
 Frequently Asked Questions
 
 Can I keep my engagement ring in Delaware bankruptcy?
 
-It depends on the ring's value and Delaware's exemptions. No specific jewelry exemption - use federal $1,875 (11 U.S.C. 522(d)(4)). If your ring's value is below the exemption limit, you can keep it. If it exceeds the limit, you may need to use additional exemptions (like a wildcard) to protect it.
+It depends on the ring's value and Delaware's exemptions. No specific jewelry exemption - use federal $2,125 (11 U.S.C. 522(d)(4)). If your ring's value is below the exemption limit, you can keep it. If it exceeds the limit, you may need to use additional exemptions (like a wildcard) to protect it.
 
 What is the jewelry exemption in Delaware?
 
-No specific jewelry exemption - use federal $1,875 (11 U.S.C. 522(d)(4)). This applies to all jewelry including engagement rings, wedding bands, watches, and other personal adornment. Values are based on resale/liquidation value, not what you paid.
+No specific jewelry exemption - use federal $2,125 (11 U.S.C. 522(d)(4)). This applies to all jewelry including engagement rings, wedding bands, watches, and other personal adornment. Values are based on resale/liquidation value, not what you paid.
 
 How is jewelry valued in bankruptcy?
 
@@ -3786,7 +3786,7 @@ Delaware's homestead exemption protects up to $125,000 of equity in your primary
 
 Del. Code tit. 10 sec. 4914
 
-Motor Vehicle - No specific vehicle exemption under state law (federal alternative: $4,450)
+Motor Vehicle - No specific vehicle exemption under state law (federal alternative: $5,025)
 
 Protects equity in one motor vehicle up to the exemption limit. If you owe more than the car is worth (you are "underwater"), there is no equity to protect and the exemption is not needed.
 
@@ -3802,7 +3802,7 @@ Tools of trade$15,000 (tools of trade)
 
 JewelryNo specific exemption
 
-Wildcard$500 (state); federal wildcard: $1,475 + up to $13,950 unused homestead
+Wildcard$500 (state); federal wildcard: $1,675 + up to $15,800 unused homestead
 
 Retirement accounts (IRA, 401k, pension)Fully exempt
 
@@ -3816,15 +3816,15 @@ Federal Exemption Alternative
 
 PropertyFederal Exemption
 
-Homestead$27,900
+Homestead$31,575
 
-Vehicle$4,450
+Vehicle$5,025
 
-Household goods$700 per item / $14,875 total
+Household goods$800 per item / $16,850 total
 
-Wildcard$1,475 + up to $13,950 unused homestead
+Wildcard$1,675 + up to $15,800 unused homestead
 
-Tools of trade$2,800
+Tools of trade$3,175
 
 Retirement accountsFully exempt
 
@@ -3840,7 +3840,7 @@ Delaware's homestead exemption protects up to $125,000 of equity in your primary
 
 How much vehicle equity can I protect in Delaware?
 
-Delaware's motor vehicle exemption is No specific vehicle exemption under state law (federal alternative: $4,450). If your car equity is within that limit, you keep it in Chapter 7.
+Delaware's motor vehicle exemption is No specific vehicle exemption under state law (federal alternative: $5,025). If your car equity is within that limit, you keep it in Chapter 7.
 
 Does Delaware allow federal exemptions?
 
@@ -3915,7 +3915,7 @@ Delaware's homestead exemption protects up to $125,000 of equity in your home. I
 
 Can I keep my car in bankruptcy in Delaware?
 
-Delaware protects No specific vehicle exemption under state law (federal alternative: $4,450) in vehicle equity. If your car equity is within the exemption limit, you keep it in Chapter 7. In Chapter 13, you can keep your car and catch up on payments through your plan.
+Delaware protects No specific vehicle exemption under state law (federal alternative: $5,025) in vehicle equity. If your car equity is within the exemption limit, you keep it in Chapter 7. In Chapter 13, you can keep your car and catch up on payments through your plan.
 
 How long does bankruptcy take?
 
@@ -4433,7 +4433,7 @@ Frequently Asked Questions
 
 What is the difference between Chapter 7 and Chapter 13?
 
-Chapter 7 eliminates most unsecured debt in 3-4 months through liquidation of non-exempt assets. Chapter 13 is a 3-5 year repayment plan for people with regular income. Chapter 7 has income limits (means test); Chapter 13 has debt limits ($2,750,000).
+Chapter 7 eliminates most unsecured debt in 3-4 months through liquidation of non-exempt assets. Chapter 13 is a 3-5 year repayment plan for people with regular income. Chapter 7 has income limits (means test); Chapter 13 has debt limits ($526,700 unsecured, $1,580,125 secured).
 
 What does discharge mean in bankruptcy?
 
@@ -4543,7 +4543,7 @@ Plan length: Above-median income requires a 5-year plan; below-median allows 3-5
 
 Payment amount: Higher income means higher monthly plan payments
 
-Debt limits: Total debts (secured plus unsecured) cannot exceed $2,750,000
+Debt limits: Unsecured debts cannot exceed $526,700; secured debts cannot exceed $1,580,125
 
 Chapter 13 requires regular income - wages, salary, self-employment, Social Security, pension, or other consistent sources.
 
@@ -4569,7 +4569,7 @@ Frequently Asked Questions
 
 What are the income limits for bankruptcy in Delaware?
 
-For Chapter 7, your household income must be at or below the Delaware median for your household size, or you must pass the means test expense deduction. Chapter 13 has no income ceiling - anyone with regular income can file. However, Chapter 13 has a debt limit of $2,750,000.
+For Chapter 7, your household income must be at or below the Delaware median for your household size, or you must pass the means test expense deduction. Chapter 13 has no income ceiling - anyone with regular income can file. However, Chapter 13 has debt limits: $526,700 in unsecured debts and $1,580,125 in secured debts.
 
 What if my income is too high for Chapter 7?
 
@@ -4740,11 +4740,11 @@ PropertyDelaware Exemption
 
 Homestead$125,000
 
-VehicleNo specific vehicle exemption under state law (federal alternative: $4,450)
+VehicleNo specific vehicle exemption under state law (federal alternative: $5,025)
 
 Household goodsNo specific limit under state law
 
-Wildcard$500 (state); federal wildcard: $1,475 + up to $13,950 unused homestead
+Wildcard$500 (state); federal wildcard: $1,675 + up to $15,800 unused homestead
 
 Retirement (IRA/401k)Fully exempt
 
@@ -5849,7 +5849,7 @@ File a new bankruptcy: If eligible under 11 U.S.C. section 727(a)(8) (Chapter 7:
 
 Delaware-Specific Considerations
 
-Delaware allows federal exemptions, which affects the reaffirmation calculus. The federal motor vehicle exemption ($4,450) or Delaware's state motor vehicle exemption (Del. Code tit. 10, section 4902(b)(3), $15,000) should be compared. The federal wildcard ($1,475 plus up to $13,950 of unused homestead) can also protect vehicle equity. The 60-day rescission period applies in the District of Delaware.
+Delaware allows federal exemptions, which affects the reaffirmation calculus. The federal motor vehicle exemption ($5,025) or Delaware's state motor vehicle exemption (Del. Code tit. 10, section 4902(b)(3), $15,000) should be compared. The federal wildcard ($1,675 plus up to $15,800 of unused homestead) can also protect vehicle equity. The 60-day rescission period applies in the District of Delaware.
 
 Common Reaffirmation Regrets
 
@@ -6568,7 +6568,7 @@ Retirement Accounts and Bankruptcy in Delaware
 
 Your retirement savings are among the most protected assets in bankruptcy. ERISA-qualified plans are 100% exempt under federal law, and IRAs are protected up to $1,512,350. Here is what Delaware filers need to know.
 
-Quick answer: Your 401(k), 403(b), pension, and other ERISA-qualified retirement plans are 100% exempt in bankruptcy - no dollar limit. IRAs (traditional and Roth) are protected up to $1,512,350. Do NOT cash out retirement to pay debts or avoid filing. That converts protected money into unprotected money.
+Quick answer: Your 401(k), 403(b), pension, and other ERISA-qualified retirement plans are 100% exempt in bankruptcy - no dollar limit. IRAs (traditional and Roth) are protected up to $1,711,975. Do NOT cash out retirement to pay debts or avoid filing. That converts protected money into unprotected money.
 
 ERISA Plans: 100% Protected
 
@@ -6590,7 +6590,7 @@ This protection applies nationwide regardless of state exemption choices. The tr
 
 IRAs: Protected Up to $1,512,350
 
-Traditional IRAs and Roth IRAs are protected under 11 U.S.C. section 522(n) up to a combined limit of $1,512,350 (adjusted for inflation). This limit applies to:
+Traditional IRAs and Roth IRAs are protected under 11 U.S.C. section 522(n) up to a combined limit of $1,711,975 (adjusted for inflation). This limit applies to:
 
 Traditional IRAs
 
@@ -6600,11 +6600,11 @@ SEP-IRAs (may receive full ERISA protection if employer-sponsored)
 
 SIMPLE IRAs (may receive full ERISA protection)
 
-Rollover amounts from an ERISA plan into an IRA retain their unlimited ERISA protection - they do not count against the $1,512,350 cap.
+Rollover amounts from an ERISA plan into an IRA retain their unlimited ERISA protection - they do not count against the $1,711,975 cap.
 
 Delaware-Specific Retirement Protections
 
-Delaware allows filers to choose federal exemptions, making the federal IRA exemption ($1,512,350) available. ERISA-qualified plans are 100% exempt under both state and federal law. Delaware state employee pensions (under Del. Code tit. 29, Ch. 55) are fully exempt. The choice between state and federal exemptions can affect retirement protection - consult the full exemption picture before choosing.
+Delaware allows filers to choose federal exemptions, making the federal IRA exemption ($1,711,975) available. ERISA-qualified plans are 100% exempt under both state and federal law. Delaware state employee pensions (under Del. Code tit. 29, Ch. 55) are fully exempt. The choice between state and federal exemptions can affect retirement protection - consult the full exemption picture before choosing.
 
 Important: Delaware uses state or federal exemptions. If you have a choice between state and federal exemptions, compare the total exemption picture - retirement is just one factor.
 
@@ -6630,7 +6630,7 @@ Yes. ERISA-qualified plans are 100% exempt under federal law. Your 401(k) is com
 
 Are IRAs protected?
 
-Yes, up to $1,512,350 combined for all traditional and Roth IRAs. Rollover amounts from ERISA plans keep their unlimited protection.
+Yes, up to $1,711,975 combined for all traditional and Roth IRAs. Rollover amounts from ERISA plans keep their unlimited protection.
 
 Can I contribute to retirement during Chapter 13?
 
@@ -7036,7 +7036,7 @@ Subchapter V (Ch. 11)
 
 Streamlined reorganization
 
-Debts under $7,500,000
+Debts of no more than $3,424,000
 
 Owner retains equity
 
@@ -7062,7 +7062,7 @@ Chapter 13 (Sole Proprietors)
 
 Available only to sole proprietors
 
-Debt limits apply (currently ~$2.75M)
+Debt limits apply (unsecured under $526,700; secured under $1,580,125)
 
 3-5 year repayment plan
 
@@ -7098,11 +7098,11 @@ Frequently Asked Questions
 
 What are my options for small business bankruptcy in Delaware?
 
-Small businesses in Delaware can file Chapter 7 (liquidation), Chapter 11 (reorganization), Chapter 11 Subchapter V (streamlined for small businesses with debts under $7,500,000), or Chapter 13 (for sole proprietors with debts under the limit). The best choice depends on whether you want to continue or close the business.
+Small businesses in Delaware can file Chapter 7 (liquidation), Chapter 11 (reorganization), Chapter 11 Subchapter V (streamlined for small businesses with debts of no more than $3,424,000), or Chapter 13 (for sole proprietors with debts under the limit). The best choice depends on whether you want to continue or close the business.
 
 What is Subchapter V bankruptcy?
 
-Subchapter V of Chapter 11 (created by the Small Business Reorganization Act of 2019) is a streamlined reorganization for businesses with debts under $7,500,000. It is faster, cheaper, and more debtor-friendly than traditional Chapter 11. There is no committee of unsecured creditors, and the owner can retain equity without paying creditors in full.
+Subchapter V of Chapter 11 (created by the Small Business Reorganization Act of 2019) is a streamlined reorganization for businesses with debts of no more than $3,424,000. It is faster, cheaper, and more debtor-friendly than traditional Chapter 11. There is no committee of unsecured creditors, and the owner can retain equity without paying creditors in full.
 
 Can I keep my business if I file bankruptcy in Delaware?
 
@@ -7621,7 +7621,7 @@ Deficiency discharged - in Chapter 7, the deficiency is eliminated; in Chapter 1
 
 Delaware Vehicle Exemptions
 
-Delaware offers a choice between state exemptions (motor vehicle exemption: $15,000) and federal exemptions ($4,450 vehicle + wildcard). This choice is critical when deciding whether to keep or surrender a vehicle. The deficiency after surrender is discharged in Chapter 7. Delaware is a small state with public transit concentrated in Wilmington - rural areas require personal vehicles.
+Delaware offers a choice between state exemptions (motor vehicle exemption: $15,000) and federal exemptions ($5,025 vehicle + wildcard). This choice is critical when deciding whether to keep or surrender a vehicle. The deficiency after surrender is discharged in Chapter 7. Delaware is a small state with public transit concentrated in Wilmington - rural areas require personal vehicles.
 
 When Surrender Makes Sense
 
